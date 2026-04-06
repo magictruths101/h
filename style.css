@@ -18,6 +18,14 @@ body{
     align-items:center;
 }
 
+.reflection-wrapper{
+    width:700px;
+    margin-bottom:50px;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+}
+
 .scroll-top,
 .scroll-bottom{
     width:800px;
@@ -35,6 +43,11 @@ body{
 }
 
 #introText{
+    white-space:pre-wrap;
+    line-height:1.7;
+    font-size:18px;
+}
+#reflectionText{
     white-space:pre-wrap;
     line-height:1.7;
     font-size:18px;
@@ -148,6 +161,10 @@ body{
     display:none;
 }
 
+.reflection-collapsed .scroll-body{
+    display:none;
+}
+
 .footnote-box{
     position:relative;
 }
@@ -166,6 +183,9 @@ body{
 }
 
 .intro-wrapper{
+    cursor:pointer;
+}
+.reflection-wrapper{
     cursor:pointer;
 }
 
