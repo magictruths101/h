@@ -207,7 +207,7 @@ function renderImageGallery(){
         item.innerHTML = `
             <img src="${fn.image}" onclick="openLightbox('${fn.image}')">
             <div class="gallery-caption">
-                <b>Page ${fn.page}: ${fn.phrase}</b><br>
+                <b>Image ${fn.page}: ${fn.phrase}</b><br>
                 ${fn.text}
             </div>
         `;
