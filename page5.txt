@@ -1,0 +1,39 @@
+Page 109
+
+	What is the matter?
+	  ⌜Enter a Messenger.⌝
+MESSENGER   
+	Save yourself, my lord.
+ 	The ocean, overpeering of his list,
+ 	Eats not the flats with more impetuous haste
+ 	Than young Laertes, in a riotous head,
+ 	O’erbears your officers. The rabble call him lord,
+ 	And, as the world were now but to begin,
+ 	Antiquity forgot, custom not known,
+ 	The ratifiers and props of every word,
+ 	They cry “Choose we, Laertes shall be king!”
+ 	Caps, hands, and tongues applaud it to the clouds,
+	“Laertes shall be king! Laertes king!”
+	  ⌜A noise within.⌝
+QUEEN 
+	How cheerfully on the false trail they cry!
+ 	O, this is counter, you false Danish dogs!
+KING  
+	The doors are broke.
+	  ⌜Enter Laertes with others.⌝
+LAERTES 
+ 	Where is this king? — Sirs, stand you all without.
+ALL  
+	No, let’s come in.
+LAERTES  
+	I pray you, give me leave.
+ALL  
+	We will, we will.
+LAERTES 
+ 	I thank you. Keep the door. ⌜Exeunt his Followers⌝ 
+	O, thou vile king,
+ 	Give me my father.
+QUEEN   
+	Calmly, good Laertes.
+LAERTES 
+ 	That drop of blood that’s calm proclaims me bastard,

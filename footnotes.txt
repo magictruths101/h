@@ -1,0 +1,7 @@
+FOOTNOTE 1 Most constantly.
+This is the footnote that we see on the third line of this chunk of Macbeth. Oh wait this is not Macbeth, this is actually hamlet.
+
+FOOTNOTE 3 sunt in culpa
+See this is on the lorem Epsom text which is sent in culpa, I know there are definitely some typos there but this is just filler text for now anyways so it doesnt
+	Really matter anyways, does it. Interestingly
+But yea thats the reality of the matter.

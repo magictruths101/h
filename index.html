@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Book Viewer</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div id="introWrapper" class="intro-wrapper">
+
+    <div class="scroll-top"></div>
+
+    <div class="scroll-body">
+        <div id="introText"></div>
+    </div>
+
+    <div class="scroll-bottom"></div>
+
+</div>
+
+
+<div class="book-container">
+
+    <button id="leftArrow" class="arrow left">❮</button>
+
+    <div class="book">
+        <div class="page" id="leftPage"></div>
+        <div class="page" id="rightPage"></div>
+    </div>
+
+    <button id="rightArrow" class="arrow right">❯</button>
+
+</div>
+
+<div id="footnoteBox" class="footnote-box" style="display:none;">
+
+    <div class="footnote-close" onclick="closeFootnote()">✕</div>
+
+    <div class="footnote-header">FOOTNOTE</div>
+
+    <div id="footnoteRef"></div>
+
+    <div id="footnoteText"></div>
+
+</div>
+
+<div id="imageGallery" class="image-gallery"></div>
+
+<div id="imageLightbox" class="lightbox" style="display:none;">
+
+    <div class="lightbox-close" onclick="closeLightbox()">✕</div>
+
+    <img id="lightboxImg">
+
+</div>
+
+<script src="script.js?v=2"></script>
+
+</body>
+</html>
