@@ -207,9 +207,11 @@ body{
 }
 
 #lightboxImg{
-    width:50vw;
-    height:auto;
+    max-width:90vw;
     max-height:80vh;
+    width:auto;
+    height:auto;
+    display:block;
     box-shadow:0 10px 30px rgba(0,0,0,0.6);
 }
 
