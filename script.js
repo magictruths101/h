@@ -218,11 +218,35 @@ function renderImageGallery(){
 
 }
 
+async function loadReflection(){
+
+    try{
+        const response = await fetch("reflection.txt");
+        const text = await response.text();
+
+        document.getElementById("reflectionText").textContent = text;
+    }
+    catch{
+        document.getElementById("reflectionText").textContent = "Reflection could not be loaded.";
+    }
+
+}
+
+loadReflection();
+
 const introWrapper = document.getElementById("introWrapper");
 
 introWrapper.addEventListener("click", () => {
 
     introWrapper.classList.toggle("intro-collapsed");
+
+});
+
+const reflectionWrapper = document.getElementById("reflectionWrapper");
+
+reflectionWrapper.addEventListener("click", () => {
+
+    reflectionWrapper.classList.toggle("reflection-collapsed");
 
 });
 
