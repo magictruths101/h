@@ -112,7 +112,7 @@ function showImageFootnote(index){
     const box = document.getElementById("footnoteBox");
 
     document.getElementById("footnoteRef").textContent =
-        `Page ${fn.page}: ${fn.phrase}`;
+        `Image ${fn.page}: ${fn.phrase}`;
 
     document.getElementById("footnoteText").innerHTML =
         `<img src="${fn.image}" style="max-width:100%; display:block; margin:10px auto;">
