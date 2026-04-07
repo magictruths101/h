@@ -158,6 +158,29 @@ body{
     transform:scale(1.03);
 }
 
+.cover-box{
+    width:900px;
+    margin-bottom:50px;
+    padding:20px;
+
+    background:#f4efe3;
+    border:2px solid #b5a27c;
+
+    box-shadow:0 4px 10px rgba(0,0,0,0.2);
+
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+#coverPhoto{
+    max-width:100%;
+    max-height:700px;
+    width:auto;
+    height:auto;
+    display:block;
+}
+
 .intro-collapsed .scroll-body{
     display:none;
 }
