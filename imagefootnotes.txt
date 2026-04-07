@@ -1,27 +1,29 @@
-IMAGE 1 Title Goes Here
-finalimage1.png
-Description here
-
-IMAGE 2 Title Goes Here
-finalimage2.png
-Description here
-
-IMAGE 3 Title Goes Here
+IMAGE 1 The Botanical Language
 finalimage3.png
-Description here
+This illustration represents the embodiment of political commentary directed at the court. The bouquet of flowers conveys differing meanings: fennel for flattery, rue for regret, and rosemary for remembrance. The entanglement between flourishing petals and wilted stems serves to reinforce the proclamation of Ophelia’s “madness”, showcasing the resistance to containment of what grief is expected to look like.
 
-IMAGE 4 Title Goes Here
+IMAGE 2 Ophelia and The Court
 finalimage4.png
-Description here
+This divided work provides a visual stage between Ophelia on the right and Claudius and Gertrude on the left. The flowers and blue hues seeping into the other half of the piece represents the interior collapse that the court attempts to control. Ophelia's side dissolves into an aqueous state that invades the rigid, structural space of The Court, indicating an infiltration of both psychological and social boundaries. The illustration of these three figures is not isolated to their personal relationships, but exemplifies the broader instability of Denmark. To The Court, Ophelia is a spectacle, but Ophelia, in turn, witnesses the collapse of the nation through Gertrude’s and Claudius’ actions.
 
-IMAGE 5 Title Goes Here
-finalimage5.png
-Description here
-
-IMAGE 6 Title Goes Here
+IMAGE 3 The Parallel Sons
 finalimage6.png
-Description here
+In this illustration, Hamlet and Laertes are juxtaposed to convey two varying models of grief and the response to it. Hamlet, with the skull in hand, represents a contemplative nature that contrasts directly with Laertes’ aggression, with a weapon in hand. The diverging demeanor between the two which shares a space with the presence of Polonius between them conveys the shared origin of their actions. Laertes serves as a mirror for Hamlet, exposing the contingency of Hamlet’s delayed reactions.
 
-IMAGE 7 Title Goes Here
+IMAGE 4 Denmark and the Unstable Crown
+finalimage5.png
+The visual transforms political unrest into symbolic fracturing of the monarch. As King Claudius sits upon the throne, he shares similar facial features as the skull the wave-like crowd is carrying. The indistinguishable faces suggest the public opinion has blurred the vision of sovereignty in Denmark. As the boundaries of legitimate royal succession diminish, the populist upheaval is emphasized, portraying the parallel of Ophelia and authority being subjected to collapse.
+
+IMAGE 5 Broken Song
 finalimage7.png
-Description here
+In this image, Ophelia displays her “madness” in the form of lyrics that have become fragmented, transforming into dispersed objects surrounding her. The transformation of her words breaks down the clarity as meaning slips between songs and hallucinations. To the audience, her words reframe her instability as language that is affective rather than communicative, suggesting that “madness” is experienced and not simply stated.
+
+IMAGE 6 Submersion as Fate
+finalimage1.png
+In this final piece, Ophelia stands upon the water that will bring her “madness” to an end. Though her death is performed offstage, exemplifying the idea that female grief is meant to be quiet and reflective, the encroaching water removes the boundary between herself and the room she stands in. The colors in the water which mirror her skin tone create a distorted form, indicating a loss of identity that foreshadows her inevitable submersion. 
+
+IMAGE 7 Cover Image
+finalimage2.png
+
+
+
